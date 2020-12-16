@@ -1,0 +1,7 @@
+C:\get886\day2question\day2assign\day2assign\bin\Debug\day2assign.exe.config
+C:\get886\day2question\day2assign\day2assign\bin\Debug\day2assign.exe
+C:\get886\day2question\day2assign\day2assign\bin\Debug\day2assign.pdb
+C:\get886\day2question\day2assign\day2assign\obj\Debug\day2assign.csprojAssemblyReference.cache
+C:\get886\day2question\day2assign\day2assign\obj\Debug\day2assign.csproj.CoreCompileInputs.cache
+C:\get886\day2question\day2assign\day2assign\obj\Debug\day2assign.exe
+C:\get886\day2question\day2assign\day2assign\obj\Debug\day2assign.pdb
